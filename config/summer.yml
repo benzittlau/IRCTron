@@ -1,0 +1,4 @@
+nick: ConvoreTron
+channel: "#anothertestchannel"
+channels: []
+auto_rejoin: true
